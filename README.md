@@ -38,3 +38,7 @@ https://youtu.be/--gfsEindSE
 ### 맡은 부분
 
 ![review](https://user-images.githubusercontent.com/75124027/172111705-61c0e22a-60fc-419e-87cb-923bd13e79c0.gif)
+
+- 리뷰 전체 페이지
+- 리뷰 작성 페이지
+- 리뷰 상세 페
