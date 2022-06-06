@@ -9,6 +9,9 @@
 - FE: 염종은,유하은,박슬기,김완영,신윤지
 - BE: 박상연,김민정
 
+### 기간
+2022.05.23 ~ 2022.06.03
+
 #### 기술 스택
 
 - `FE`: JavaScript, ReactJs, react-router, HTML5, SASS
