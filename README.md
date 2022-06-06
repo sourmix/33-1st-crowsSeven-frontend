@@ -30,6 +30,7 @@ https://youtu.be/--gfsEindSE
 
 ![store](https://user-images.githubusercontent.com/75124027/172110770-a0c653d1-6746-4e21-b03c-8a56bccd66f7.gif)
 ---
+---
 
 ### 맡은 부분
 
