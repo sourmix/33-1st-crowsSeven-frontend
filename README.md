@@ -32,7 +32,8 @@ https://youtu.be/--gfsEindSE
 
 ---
 ![main](https://user-images.githubusercontent.com/75124027/172108569-1b9e23d0-ee64-4c53-b568-467ad1f42b72.gif)
-
+![signup](https://user-images.githubusercontent.com/75124027/172182143-b47564f6-dfaf-4b4e-a202-185a7566225e.gif)
+![product](https://user-images.githubusercontent.com/75124027/172182105-d5b75b63-10ec-4cc9-bf50-1cebd47827bc.gif)
 ![store](https://user-images.githubusercontent.com/75124027/172110770-a0c653d1-6746-4e21-b03c-8a56bccd66f7.gif)
 ---
 ---
